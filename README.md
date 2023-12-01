@@ -88,7 +88,7 @@ https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/4d3efc9f-8f5a-
 
 - Filtrage Hotels par Ville
   
-![125](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/fa2354a0-43a9-4e7c-94c7-2089d881106f)
+![126](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/5b434b76-1f3c-4823-bc75-1056ea40833a)
 
 
 # Conclusion
