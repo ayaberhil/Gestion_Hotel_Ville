@@ -46,20 +46,42 @@ https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/4d3efc9f-8f5a-
 # Ville Client Test
 
 - Ajout
+![113](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/ae3395ed-7456-472f-9814-40d480cd86e7)
 
-- Modification
+![114](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/e4a83f0f-f4e4-4292-bdec-9c1c6e12e78c)
 
--Suppression
+
+- Modification 
+![115](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/aa2e7066-74fe-4c79-94c3-0cd1770a3959)
+
+![116](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/0fd92988-448e-4fec-a0cf-ca8dea5f5947)
+
+- Suppression
+![117](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/b24e9c5b-e261-4b18-acc9-b802ff72b906)
+
+![118](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/7874dc0c-7d24-4c8a-8c7b-09487ade2b15)
+
+
 
 # Hotel Client Test
 
-- Ajout
+- Ajout  
+![119](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/d9f9f298-c7df-4f62-901e-4fbf18a60256)
+
+![120](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/b96f5ad0-0870-4c0f-9b85-1a2854bbff7e)
+
 
 - Modification
+![121](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/d1753685-3589-4674-ae1b-94dbbacc7896)
 
--Suppression
+![122](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/e05321d2-076e-4d76-ae0d-4f4033271f35)
 
--Filtrage
+- Suppression
+![123](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/5c9132d2-8086-4d66-a2b7-62ec8bdf15b5)
+![124](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/aee3359d-507a-43d7-9c6a-1f1695b70958)
+
+- Filtrage
+![125](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/fa2354a0-43a9-4e7c-94c7-2089d881106f)
 
 
 # Conclusion
