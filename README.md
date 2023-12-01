@@ -12,7 +12,7 @@ TravelHubPro est une plateforme de gestion de voyages qui simplifie la gestion d
 # Fonctionnalitées clés
 - Gestion d'Hôtels : Ajoutez, modifiez et supprimez des informations sur les hôtels, y compris leur nom, adresse, numéro de téléphone, et ville associée.
   
-- Gestion de ville : Ajoutez, modifiez et supprimez des informations sur les villes, y compris leur nom.
+- Gestion de Villes : Ajoutez, modifiez et supprimez des informations sur les villes, y compris leur nom.
   
 - Exploration de Villes : Explorez différentes villes et découvrez les hôtels disponibles dans chaque destination.
 
