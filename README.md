@@ -29,14 +29,17 @@ TravelHubPro est une plateforme de gestion de voyages qui simplifie la gestion d
 
 # Gestion des Villes
 
+https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/8657f16d-3587-47b7-904d-e62bbd6bb659
 
 
 # Gestion des Hotels
 
+https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/a4822327-bbb8-4c71-a2ac-fc98298473a3
 
 
 # Filtrage Hotels par Ville
 
+https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/4d3efc9f-8f5a-4879-884c-afd791a8ba94
 
 
 
