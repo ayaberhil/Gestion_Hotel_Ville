@@ -24,7 +24,7 @@ TravelHubPro est une plateforme de gestion de voyages qui simplifie la gestion d
 ![111](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/30a3a738-0020-4d26-91b4-0ff405e98b7d)
 
 
-# Widfly
+# Wildfly
 ![112](https://github.com/ayaberhil/Gestion_Hotel_Ville/assets/147451152/2d47abfc-d934-4979-9a0c-afa5b07ee201)
 
 
